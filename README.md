@@ -5,13 +5,6 @@
 
 [TestFlight for iOS/iPadOS](https://testflight.apple.com/join/cLXi3ov0)
 
-#### Minimum OS requirements: 
-
-macOS 10.15 Catalina
-
-iOS/iPadOS 13.0
-
-
 
 ### Spring Twitter 客户端的抢先预览版
 
@@ -19,7 +12,8 @@ iOS/iPadOS 13.0
 
 [TestFlight for iOS/iPadOS](https://testflight.apple.com/join/cLXi3ov0)
 
-#### 最低系统要求: 
+
+#### Minimum OS requirements 最低系统要求: 
 
 macOS 10.15 Catalina
 
