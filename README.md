@@ -1,12 +1,12 @@
 # Project Spring [@theSpringApp](https://twitter.com/theSpringApp)
-### The early preview of Spring Twitter client
+### Spring Twitter client (Beta)
 
 [Download Mac app](https://github.com/JunyuKuang/Project-Spring-for-Twitter/releases)
 
 [TestFlight for iOS/iPadOS](https://testflight.apple.com/join/cLXi3ov0)
 
 
-### Spring Twitter 客户端的抢先预览版
+### Spring Twitter 客户端 (Beta)
 
 [下载 Mac app](https://github.com/JunyuKuang/Project-Spring-for-Twitter/releases)
 
