@@ -5,12 +5,16 @@
 
 [TestFlight for iOS/iPadOS](https://testflight.apple.com/join/cLXi3ov0)
 
+[App Store](https://geo.itunes.apple.com/app/id1508706541)
+
 
 ### Spring Twitter 客户端 (Beta)
 
 [下载 Mac app](https://github.com/JunyuKuang/Project-Spring-for-Twitter/releases)
 
 [TestFlight for iOS/iPadOS](https://testflight.apple.com/join/cLXi3ov0)
+
+[App Store](https://geo.itunes.apple.com/app/id1508706541)
 
 
 #### Minimum OS requirements 最低系统要求: 
