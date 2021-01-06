@@ -66,7 +66,7 @@ spring://twitter.com/theSpringApp
 ### 进阶
 如果您希望一次打开多个页面，或通过特定账号打开页面，请使用 “open” URL。
 
-可提供 2 个 URL 参数： url (必填), account/account-id (选填)。
+支持的参数： url (必填), account/account-id (选填)。
 
 您可指定多个 url 参数。url 参数的内容必须经过百分比编码（percent encoding）否则 Spring 可能无法识别。
 
